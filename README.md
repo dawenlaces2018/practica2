@@ -2,6 +2,7 @@
 Vadim Perepelitsin			Jaime Catalan Mateos 
 Sergio Pajares	 			Carlos Sancho
 Erick Cupuera				Jorge Sanchez
+Hristo Prashtakov
 
 David Murcia                            Javier Magdalena
 <<<<<<< HEAD
